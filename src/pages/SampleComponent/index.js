@@ -47,7 +47,7 @@ const SampleComponent = () => {
       <View>
         <Image source={{uri: 'http://placeimg.com/640/480/any'}}
         style={{width: 100, height: 100}}></Image>
-        <Text>Ini Gedung</Text>
+        <Text>Ini adalah Gedung</Text>
       </View>
       )
     }  
